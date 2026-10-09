@@ -89,7 +89,7 @@ python -m uvicorn backend.main:app --reload
 
 1. Open a new terminal window and navigate to `frontend`:
 ```powershell
-cd "sih new\frontend"
+cd "frontend"
 
 ```
 
